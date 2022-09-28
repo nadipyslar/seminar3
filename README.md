@@ -6,3 +6,4 @@ start
 - радсоть :smiley:
 - грусть
 - гнев :persevere:
+- любовь :kissing_heart:
